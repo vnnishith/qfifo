@@ -1,0 +1,12 @@
+Package: qfifo
+Title: Implementation of Queue
+Version: 0.0.0.1
+Authors@R: person("Nishith", "VN", email = "vnnishith@gmail.com", role = c("aut", "cre"))
+Description: Queue features like add, process and top implemented.
+Depends: R (>= 3.3)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat
